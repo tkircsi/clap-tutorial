@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "clap-01-quick",
+    "clap-01-quick-derive",
+    "clap-02-apps",
+]
